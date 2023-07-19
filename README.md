@@ -24,6 +24,3 @@ Here the reference speed is taken in rps. The gain for the adrc block is calcula
 + Power Electronics
 + Control System
 + Electric Machine
-
-### Language-
-+ ***MATLAB Simulink***
